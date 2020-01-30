@@ -1,3 +1,7 @@
 {
-    "author": "Mauricio Garcia Mona"
+    "name": "free_code_camp_apis",
+    "description": "",
+    "version": "1.0.0",
+    "author": "Mauricio",
+    "license": "ISC",
 }
