@@ -1,0 +1,11 @@
+{
+  "name": "free_code_apis_course",
+  "version": "1.0.0",
+  "description": "Proyecto para evaluaciones de freecodecamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mauricio garcia mona",
+  "license": "ISC"
+}
